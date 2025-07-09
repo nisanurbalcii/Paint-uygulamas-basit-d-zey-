@@ -1,0 +1,1 @@
+merhaba bu kod basit bir çizim uygulamasıdır içeriğinde font ve renk belirleme fırça kalınlığı ayarlama arka plan rengini değiştirme oluşturduğunuz çizimi kaydetme çizim yaparken geri ve ileri alma tuşları ve tümünü sil seçeneği gibi özellikler vardır.
