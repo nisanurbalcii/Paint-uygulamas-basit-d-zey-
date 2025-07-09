@@ -1,0 +1,51 @@
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.exe
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.deps.json
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.runtimeconfig.json
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.dll
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.pdb
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.Form1.resources
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.csproj.GenerateResource.cache
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.AssemblyInfoInputs.cache
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.AssemblyInfo.cs
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.dll
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\refint\örnek12.dll
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.pdb
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.genruntimeconfig.cache
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\ref\örnek12.dll
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.Properties.Resources.resources
+C:\Users\Nisa\Desktop\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.exe
+C:\Users\Nisa\Desktop\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.deps.json
+C:\Users\Nisa\Desktop\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.runtimeconfig.json
+C:\Users\Nisa\Desktop\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.dll
+C:\Users\Nisa\Desktop\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.pdb
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.Form1.resources
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.Properties.Resources.resources
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.csproj.GenerateResource.cache
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.AssemblyInfoInputs.cache
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.AssemblyInfo.cs
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.dll
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\refint\örnek12.dll
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.pdb
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.genruntimeconfig.cache
+C:\Users\Nisa\Desktop\örnek12\örnek12\obj\Debug\net8.0-windows\ref\örnek12.dll
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.exe
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.deps.json
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.runtimeconfig.json
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.dll
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\bin\Debug\net8.0-windows\örnek12.pdb
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.Form1.resources
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.Properties.Resources.resources
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.csproj.GenerateResource.cache
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.AssemblyInfoInputs.cache
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.AssemblyInfo.cs
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.dll
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\refint\örnek12.dll
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.pdb
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\örnek12.genruntimeconfig.cache
+C:\Users\Nisa\Desktop\görsel\örnek12\örnek12\obj\Debug\net8.0-windows\ref\örnek12.dll
